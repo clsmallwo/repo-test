@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 THis is a test file - DEVELOPMET - fljslkfjklaskhsdhfjhs kjfkjk sdhfjks;dksdl;fkl;l
+=======
+THis is a test file
+fsdfasfd
+THis is a test file - DEVELOPMET - fljslkfjklaskl
+>>>>>>> 42a95f156c67e783070141a52691c3e50872b042
